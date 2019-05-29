@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cryptoexchange/static/css/main.10bc3b92.chunk.css",
+    "main.js": "/cryptoexchange/static/js/main.d68ac2e9.chunk.js",
+    "main.js.map": "/cryptoexchange/static/js/main.d68ac2e9.chunk.js.map",
+    "runtime~main.js": "/cryptoexchange/static/js/runtime~main.63c86f44.js",
+    "runtime~main.js.map": "/cryptoexchange/static/js/runtime~main.63c86f44.js.map",
+    "static/css/2.266e55a5.chunk.css": "/cryptoexchange/static/css/2.266e55a5.chunk.css",
+    "static/js/2.18d995f4.chunk.js": "/cryptoexchange/static/js/2.18d995f4.chunk.js",
+    "static/js/2.18d995f4.chunk.js.map": "/cryptoexchange/static/js/2.18d995f4.chunk.js.map",
+    "index.html": "/cryptoexchange/index.html",
+    "precache-manifest.2f79c3a2157b78a2810b8dbe9a693f88.js": "/cryptoexchange/precache-manifest.2f79c3a2157b78a2810b8dbe9a693f88.js",
+    "service-worker.js": "/cryptoexchange/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/cryptoexchange/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.10bc3b92.chunk.css.map": "/cryptoexchange/static/css/main.10bc3b92.chunk.css.map",
+    "static/media/bitcoin.png": "/cryptoexchange/static/media/bitcoin.a552edcd.png",
+    "static/media/ethereum.jpg": "/cryptoexchange/static/media/ethereum.bd866f78.jpg",
+    "static/media/stellar.png": "/cryptoexchange/static/media/stellar.9ed19e76.png"
+  }
+}
