@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2a8726add3cb44a9fdb6f2c76b94a5f",
+    "revision": "214e5d1b64eaa0b1d856ae77df4b3434",
     "url": "/cryptoexchange/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cryptoexchange/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "a6dbb5dfd074a1bd9ca3",
-    "url": "/cryptoexchange/static/css/main.10bc3b92.chunk.css"
+    "revision": "c06b1681755629e65be3",
+    "url": "/cryptoexchange/static/css/main.7aacebab.chunk.css"
   },
   {
     "revision": "55155436217c61a2e15e",
     "url": "/cryptoexchange/static/js/2.18d995f4.chunk.js"
   },
   {
-    "revision": "a6dbb5dfd074a1bd9ca3",
+    "revision": "c06b1681755629e65be3",
     "url": "/cryptoexchange/static/js/main.d68ac2e9.chunk.js"
   },
   {
