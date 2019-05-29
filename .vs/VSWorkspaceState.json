@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Bitcoin",
+    "\\src\\components\\Ethereum",
+    "\\src\\stylesheets",
+    "\\src\\stylesheets\\Bitcoin"
+  ],
+  "SelectedNode": "\\src\\components\\Bitcoin\\InfoBox.js",
+  "PreviewInSolutionExplorer": false
+}

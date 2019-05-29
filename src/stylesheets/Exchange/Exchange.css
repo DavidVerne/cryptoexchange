@@ -1,0 +1,37 @@
+.exchange {
+    margin: 0 auto;
+    padding-bottom: 30px;
+    border-radius: 3px;
+    border: 2px solid yellow;
+    border-radius: 3px;
+}
+
+    .exchange h4 {
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 15px;
+        color: #fff;
+    }
+
+div#crypto-container {
+    background: #fff;
+    width: 70%;
+    margin: 0 auto 4px auto;
+    padding: 1em;
+    box-shadow: 1px 1px 0 lightgrey;
+}
+
+span.left {
+    font-weight: bold;
+}
+
+span.right {
+    float: right;
+}
+
+@media screen and (min-width: 575px) {
+    .exchange {
+        width: 25%;
+        float: right;
+    }
+}

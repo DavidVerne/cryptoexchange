@@ -1,0 +1,75 @@
+.coinCards {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.coinCards a:hover {
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.bitcoinImage img {
+    width: 60px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.ethereumImage img {
+    width: 45px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.liteCoinImage img {
+    width: 60px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.xrpImage img {
+    width: 60px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.stellarImage img {
+    width: 80px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.bitcoinImage .card-body, .ethereumImage .card-body, .litecoinImage .card-body {
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 575px) {
+    .coinCards .card-title {
+        font-size: 1.10rem !important;
+    }
+    .bitcoinImage.card {
+        width: 110px;
+        min-height: 215px;
+        text-align: center;
+    }
+    .ethereumImage.card {
+        width: 110px;
+        min-height: 215px;
+        text-align: center;
+    }
+    .liteCoinImage.card {
+        width: 110px;
+        min-height: 215px;
+        text-align: center;
+    }
+    .xrpImage.card {
+        width: 110px;
+        min-height: 215px;
+        text-align: center;
+    }
+    .stellarImage.card {
+        width: 110px;
+        min-height: 215px;
+        text-align: center;
+    }
+}

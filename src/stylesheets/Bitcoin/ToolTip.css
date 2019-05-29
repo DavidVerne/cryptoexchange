@@ -1,0 +1,14 @@
+.hover {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    padding: 5px;
+    border-radius: 4px;
+    background-color: #122544 !important;
+    color: yellow !important;
+}
+
+    .hover .price {
+        font-weight: 700;
+    }

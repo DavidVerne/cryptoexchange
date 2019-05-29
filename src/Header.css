@@ -1,0 +1,19 @@
+.NavBar {
+    background-color: #1652F0;
+    height: 85px;
+}
+
+    .NavBar a {
+        color: #fff;
+        font-family: 'Oxygen', sans-serif;
+        font-size: 25px;
+    }
+
+.NavBar a:hover {
+    text-decoration: none;
+}
+
+.navbar {
+    padding-top: 20px;
+    background-color: #1652F0;
+}
